@@ -31,7 +31,7 @@ public class RenameSeasonEpisodes {
     String fullSeriesName = "Battlestar.Galactica";
     String abbr = "BG";
     //String tvSeriesName = "Modern Family";
-    int seasonNo = 3;
+    int seasonNo = 2;
     String root = "A:/TV-Series";
     String tvRoot = root + "/" + tvSeriesName + "/";
     String season = "season " + seasonNo + "/";
